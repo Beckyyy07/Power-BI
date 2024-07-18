@@ -14,7 +14,10 @@ Este repositório tem como objetivo compartilhar projetos e exemplos práticos d
 
 ## Instalação
 
-Para visualizar e editar os relatórios do Power BI, você precisará do [Microsoft Power BI Desktop](https://powerbi.microsoft.com/desktop/). 
+Para visualizar e editar os relatórios do Power BI, você precisará do [Microsoft Power BI Desktop](https://powerbi.microsoft.com/desktop/). Siga os passos abaixo para instalar:
+
+1. Acesse o site oficial do Power BI.
+2. Baixe e instale a versão mais recente do Power BI Desktop.
 
 ## Projetos
 
