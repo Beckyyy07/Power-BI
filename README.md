@@ -21,9 +21,9 @@ Para visualizar e editar os relatórios do Power BI, você precisará do [Micros
 
 ## Projetos
 
-### [Projeto 1: Análise de Vendas](./projeto1-analise-vendas)
+### [Projeto 1: Apocalypse Food Prep](./Power-BI/Microsoft%20Power%20BI%20for%20Beginners%20-%20Alex%20The%20Analyst)
 
-Descrição: Este projeto analisa as vendas de uma empresa fictícia, mostrando insights sobre desempenho de vendas, produtos mais vendidos, e análise regional.
+
 
 
 Espero que este exemplo seja útil! Se precisar de mais alguma coisa, é só avisar.
