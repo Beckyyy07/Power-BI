@@ -21,6 +21,6 @@ Para visualizar e editar os relatórios do Power BI, você precisará do [Micros
 
 ## Projetos
 
-### [Projeto 1: Microsoft Power BI for Beginners - Alex The Analyst](./Beckyyy07/Power-BI/tree/main/Microsoft%20Power%20BI%20for%20Beginners%20-%20%20Alex%20The%20Analyst)
+### [Projeto 1: Microsoft Power BI for Beginners - Alex The Analyst](https://github.com/Beckyyy07/Power-BI/tree/main/Microsoft%20Power%20BI%20for%20Beginners%20-%20%20Alex%20The%20Analyst)
 
 
