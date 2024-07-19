@@ -1,4 +1,4 @@
-## [Atividade 1: Building First Visualization](./Microsoft%20Power%20BI%20for%20Beginners%20-%20%20Alex%20The%20Analyst/Apocalipse%20Food%20Prep.pbix)
+## [Atividade 1: Building First Visualization](https://github.com/Beckyyy07/Power-BI/blob/main/Microsoft%20Power%20BI%20for%20Beginners%20-%20%20Alex%20The%20Analyst/Building%20First%20Visualization%20-%20Apocalypse%20Food%20Prep.pbix)
 
 **Descrição:** Nesta primeira atividade, exploramos a plataforma do Power BI desde o início, incluindo o download e a instalação do software. 
 Importamos um conjunto de dados para análise e criamos nosso primeiro relatório. 
